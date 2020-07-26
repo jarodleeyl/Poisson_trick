@@ -1,4 +1,4 @@
-# On the "Poisson Trick" and its Extensions for Fitting Multinomial Regression Models.
+# On the "Poisson Trick" and its Extensions for Fitting Multinomial Regression Models
 
 Data and R code for my paper "On the 'Poisson Trick' and its Extensions for Fitting Multinomial Regression Models".
 
